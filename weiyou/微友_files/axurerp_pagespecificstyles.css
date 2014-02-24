@@ -1,0 +1,1442 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../微友_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:721px;
+    top:26px;
+    width:100px;
+    height:60px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:66px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:96px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../微友_files/u0_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:194px;
+    top:149px;
+    width:100px;
+    height:60px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:66px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:96px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_normal {
+    background-image: url('../微友_files/u0_normal.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:558px;
+    top:149px;
+    width:100px;
+    height:60px;
+}
+
+#u4_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:66px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:96px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6_normal {
+    background-image: url('../微友_files/u0_normal.png');
+}
+
+.u6_container {
+    position:absolute;
+    left:925px;
+    top:149px;
+    width:100px;
+    height:60px;
+}
+
+#u6_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:66px;
+}
+
+.u7 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:96px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8_normal {
+    background-image: url('../微友_files/u0_normal.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:1196px;
+    top:149px;
+    width:100px;
+    height:60px;
+}
+
+#u8_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:66px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:96px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10_normal {
+    background-image: url('../微友_files/u0_normal.png');
+}
+
+.u10_container {
+    position:absolute;
+    left:38px;
+    top:278px;
+    width:100px;
+    height:60px;
+}
+
+#u10_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:66px;
+}
+
+.u11 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:96px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12_normal {
+    background-image: url('../微友_files/u0_normal.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:194px;
+    top:282px;
+    width:100px;
+    height:60px;
+}
+
+#u12_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:66px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:96px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14_normal {
+    background-image: url('../微友_files/u0_normal.png');
+}
+
+.u14_container {
+    position:absolute;
+    left:808px;
+    top:279px;
+    width:100px;
+    height:60px;
+}
+
+#u14_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:66px;
+}
+
+.u15 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:96px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16_normal {
+    background-image: url('../微友_files/u0_normal.png');
+}
+
+.u16_container {
+    position:absolute;
+    left:925px;
+    top:278px;
+    width:100px;
+    height:60px;
+}
+
+#u16_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:66px;
+}
+
+.u17 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:96px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18_normal {
+    background-image: url('../微友_files/u0_normal.png');
+}
+
+.u18_container {
+    position:absolute;
+    left:1046px;
+    top:278px;
+    width:100px;
+    height:60px;
+}
+
+#u18_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:66px;
+}
+
+.u19 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:96px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20_normal {
+    background-image: url('../微友_files/u0_normal.png');
+}
+
+.u20_container {
+    position:absolute;
+    left:628px;
+    top:278px;
+    width:100px;
+    height:60px;
+}
+
+#u20_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:66px;
+}
+
+.u21 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:96px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22_normal {
+    background-image: url('../微友_files/u0_normal.png');
+}
+
+.u22_container {
+    position:absolute;
+    left:487px;
+    top:278px;
+    width:100px;
+    height:60px;
+}
+
+#u22_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:66px;
+}
+
+.u23 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:96px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24_normal {
+    background-image: url('../微友_files/u0_normal.png');
+}
+
+.u24_container {
+    position:absolute;
+    left:487px;
+    top:380px;
+    width:100px;
+    height:60px;
+}
+
+#u24_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:66px;
+}
+
+.u25 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:96px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26_normal {
+    background-image: url('../微友_files/u0_normal.png');
+}
+
+.u26_container {
+    position:absolute;
+    left:628px;
+    top:378px;
+    width:100px;
+    height:60px;
+}
+
+#u26_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:66px;
+}
+
+.u27 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:96px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28c0 {
+    background-image: url('../微友_files/u28c0.png');
+}
+
+.u28c0 {
+    position:absolute;
+    left:761px;
+    top:82px;
+    width:20px;
+    height:67px;
+}
+
+.u28c1 {
+    background-image: url('../微友_files/u28c1.png');
+}
+
+.u28c1 {
+    position:absolute;
+    left:234px;
+    top:129px;
+    width:547px;
+    height:20px;
+}
+
+.u28c2 {
+    background-image: url('../微友_files/u28c2.png');
+}
+
+.u28c2 {
+    position:absolute;
+    left:234px;
+    top:129px;
+    width:20px;
+    height:24px;
+}
+
+.u29 {
+    position:absolute;
+    left:-292px;
+    top:45px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u30c0 {
+    background-image: url('../微友_files/u30c0.png');
+}
+
+.u30c0 {
+    position:absolute;
+    left:761px;
+    top:82px;
+    width:20px;
+    height:67px;
+}
+
+.u30c1 {
+    background-image: url('../微友_files/u30c1.png');
+}
+
+.u30c1 {
+    position:absolute;
+    left:598px;
+    top:129px;
+    width:183px;
+    height:20px;
+}
+
+.u30c2 {
+    background-image: url('../微友_files/u30c2.png');
+}
+
+.u30c2 {
+    position:absolute;
+    left:598px;
+    top:129px;
+    width:20px;
+    height:24px;
+}
+
+.u31 {
+    position:absolute;
+    left:-110px;
+    top:45px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32c0 {
+    background-image: url('../微友_files/u32c0.png');
+}
+
+.u32c0 {
+    position:absolute;
+    left:761px;
+    top:82px;
+    width:20px;
+    height:67px;
+}
+
+.u32c1 {
+    background-image: url('../微友_files/u32c1.png');
+}
+
+.u32c1 {
+    position:absolute;
+    left:761px;
+    top:129px;
+    width:224px;
+    height:20px;
+}
+
+.u32c2 {
+    background-image: url('../微友_files/u32c2.png');
+}
+
+.u32c2 {
+    position:absolute;
+    left:965px;
+    top:129px;
+    width:20px;
+    height:24px;
+}
+
+.u33 {
+    position:absolute;
+    left:30px;
+    top:45px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34c0 {
+    background-image: url('../微友_files/u34c0.png');
+}
+
+.u34c0 {
+    position:absolute;
+    left:761px;
+    top:82px;
+    width:20px;
+    height:67px;
+}
+
+.u34c1 {
+    background-image: url('../微友_files/u34c1.png');
+}
+
+.u34c1 {
+    position:absolute;
+    left:761px;
+    top:129px;
+    width:495px;
+    height:20px;
+}
+
+.u34c2 {
+    background-image: url('../微友_files/u34c2.png');
+}
+
+.u34c2 {
+    position:absolute;
+    left:1236px;
+    top:129px;
+    width:20px;
+    height:24px;
+}
+
+.u35 {
+    position:absolute;
+    left:166px;
+    top:45px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36_normal {
+    background-image: url('../微友_files/u0_normal.png');
+}
+
+.u36_container {
+    position:absolute;
+    left:38px;
+    top:368px;
+    width:100px;
+    height:60px;
+}
+
+#u36_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:66px;
+}
+
+.u37 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:96px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38c0 {
+    background-image: url('../微友_files/u38c0.png');
+}
+
+.u38c0 {
+    position:absolute;
+    left:78px;
+    top:334px;
+    width:20px;
+    height:44px;
+}
+
+.u39 {
+    position:absolute;
+    left:-50px;
+    top:7px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40c0 {
+    background-image: url('../微友_files/u40c0.png');
+}
+
+.u40c0 {
+    position:absolute;
+    left:598px;
+    top:205px;
+    width:20px;
+    height:73px;
+}
+
+.u40c1 {
+    background-image: url('../微友_files/u40c1.png');
+}
+
+.u40c1 {
+    position:absolute;
+    left:598px;
+    top:258px;
+    width:90px;
+    height:20px;
+}
+
+.u40c2 {
+    background-image: url('../微友_files/u40c2.png');
+}
+
+.u40c2 {
+    position:absolute;
+    left:668px;
+    top:258px;
+    width:20px;
+    height:24px;
+}
+
+.u41 {
+    position:absolute;
+    left:-40px;
+    top:51px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42c0 {
+    background-image: url('../微友_files/u42c0.png');
+}
+
+.u42c0 {
+    position:absolute;
+    left:668px;
+    top:334px;
+    width:20px;
+    height:54px;
+}
+
+.u43 {
+    position:absolute;
+    left:-50px;
+    top:12px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u44c0 {
+    background-image: url('../微友_files/u44c0.png');
+}
+
+.u44c0 {
+    position:absolute;
+    left:598px;
+    top:205px;
+    width:20px;
+    height:73px;
+}
+
+.u44c1 {
+    background-image: url('../微友_files/u44c1.png');
+}
+
+.u44c1 {
+    position:absolute;
+    left:527px;
+    top:258px;
+    width:91px;
+    height:20px;
+}
+
+.u44c2 {
+    background-image: url('../微友_files/u44c2.png');
+}
+
+.u44c2 {
+    position:absolute;
+    left:527px;
+    top:258px;
+    width:20px;
+    height:24px;
+}
+
+.u45 {
+    position:absolute;
+    left:-61px;
+    top:51px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u46c0 {
+    background-image: url('../微友_files/u46c0.png');
+}
+
+.u46c0 {
+    position:absolute;
+    left:527px;
+    top:334px;
+    width:20px;
+    height:56px;
+}
+
+.u47 {
+    position:absolute;
+    left:-50px;
+    top:13px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u48c0 {
+    background-image: url('../微友_files/u48c0.png');
+}
+
+.u48c0 {
+    position:absolute;
+    left:965px;
+    top:205px;
+    width:20px;
+    height:73px;
+}
+
+.u48c1 {
+    background-image: url('../微友_files/u48c1.png');
+}
+
+.u48c1 {
+    position:absolute;
+    left:848px;
+    top:258px;
+    width:137px;
+    height:20px;
+}
+
+.u48c2 {
+    background-image: url('../微友_files/u48c2.png');
+}
+
+.u48c2 {
+    position:absolute;
+    left:848px;
+    top:258px;
+    width:20px;
+    height:25px;
+}
+
+.u49 {
+    position:absolute;
+    left:-84px;
+    top:51px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50c0 {
+    background-image: url('../微友_files/u50c0.png');
+}
+
+.u50c0 {
+    position:absolute;
+    left:965px;
+    top:205px;
+    width:20px;
+    height:83px;
+}
+
+.u51 {
+    position:absolute;
+    left:-50px;
+    top:26px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u52c0 {
+    background-image: url('../微友_files/u52c0.png');
+}
+
+.u52c0 {
+    position:absolute;
+    left:965px;
+    top:205px;
+    width:20px;
+    height:73px;
+}
+
+.u52c1 {
+    background-image: url('../微友_files/u52c1.png');
+}
+
+.u52c1 {
+    position:absolute;
+    left:965px;
+    top:258px;
+    width:141px;
+    height:20px;
+}
+
+.u52c2 {
+    background-image: url('../微友_files/u52c2.png');
+}
+
+.u52c2 {
+    position:absolute;
+    left:1086px;
+    top:258px;
+    width:20px;
+    height:24px;
+}
+
+.u53 {
+    position:absolute;
+    left:-14px;
+    top:51px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u54_normal {
+    background-image: url('../微友_files/u0_normal.png');
+}
+
+.u54_container {
+    position:absolute;
+    left:194px;
+    top:390px;
+    width:100px;
+    height:60px;
+}
+
+#u54_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:66px;
+}
+
+.u55 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:96px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u56c0 {
+    background-image: url('../微友_files/u56c0.png');
+}
+
+.u56c0 {
+    position:absolute;
+    left:234px;
+    top:338px;
+    width:20px;
+    height:62px;
+}
+
+.u57 {
+    position:absolute;
+    left:-50px;
+    top:16px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u58_normal {
+    background-image: url('../微友_files/u0_normal.png');
+}
+
+.u58_container {
+    position:absolute;
+    left:628px;
+    top:468px;
+    width:100px;
+    height:60px;
+}
+
+#u58_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:66px;
+}
+
+.u59 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:96px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u60c0 {
+    background-image: url('../微友_files/u60c0.png');
+}
+
+.u60c0 {
+    position:absolute;
+    left:668px;
+    top:434px;
+    width:20px;
+    height:44px;
+}
+
+.u61 {
+    position:absolute;
+    left:-50px;
+    top:7px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u62c0 {
+    background-image: url('../微友_files/u62c0.png');
+}
+
+.u62c0 {
+    position:absolute;
+    left:234px;
+    top:205px;
+    width:20px;
+    height:87px;
+}
+
+.u63 {
+    position:absolute;
+    left:-50px;
+    top:28px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u64c0 {
+    background-image: url('../微友_files/u64c0.png');
+}
+
+.u64c0 {
+    position:absolute;
+    left:234px;
+    top:205px;
+    width:20px;
+    height:73px;
+}
+
+.u64c1 {
+    background-image: url('../微友_files/u64c1.png');
+}
+
+.u64c1 {
+    position:absolute;
+    left:78px;
+    top:258px;
+    width:176px;
+    height:20px;
+}
+
+.u64c2 {
+    background-image: url('../微友_files/u64c2.png');
+}
+
+.u64c2 {
+    position:absolute;
+    left:78px;
+    top:258px;
+    width:20px;
+    height:24px;
+}
+
+.u65 {
+    position:absolute;
+    left:-104px;
+    top:51px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u66c0 {
+    background-image: url('../微友_files/u66c0.png');
+}
+
+.u66c0 {
+    position:absolute;
+    left:78px;
+    top:424px;
+    width:20px;
+    height:24px;
+}
+
+.u66c1 {
+    background-image: url('../微友_files/u66c1.png');
+}
+
+.u66c1 {
+    position:absolute;
+    left:78px;
+    top:428px;
+    width:116px;
+    height:20px;
+}
+
+.u66c2 {
+    background-image: url('../微友_files/u66c2.png');
+}
+
+.u66c2 {
+    position:absolute;
+    left:174px;
+    top:302px;
+    width:20px;
+    height:146px;
+}
+
+.u66c3 {
+    background-image: url('../微友_files/u66c3.png');
+}
+
+.u66c3 {
+    position:absolute;
+    left:174px;
+    top:302px;
+    width:24px;
+    height:20px;
+}
+
+.u67 {
+    position:absolute;
+    left:46px;
+    top:-13px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u68c0 {
+    background-image: url('../微友_files/u68c0.png');
+}
+
+.u68c0 {
+    position:absolute;
+    left:527px;
+    top:436px;
+    width:20px;
+    height:24px;
+}
+
+.u68c1 {
+    background-image: url('../微友_files/u68c1.png');
+}
+
+.u68c1 {
+    position:absolute;
+    left:294px;
+    top:440px;
+    width:253px;
+    height:20px;
+}
+
+.u68c2 {
+    background-image: url('../微友_files/u68c2.png');
+}
+
+.u68c2 {
+    position:absolute;
+    left:294px;
+    top:302px;
+    width:20px;
+    height:158px;
+}
+
+.u68c3 {
+    background-image: url('../微友_files/u68c3.png');
+}
+
+.u68c3 {
+    position:absolute;
+    left:290px;
+    top:302px;
+    width:24px;
+    height:20px;
+}
+
+.u69 {
+    position:absolute;
+    left:-236px;
+    top:2px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u70_normal {
+    background-image: url('../微友_files/u0_normal.png');
+}
+
+.u70_container {
+    position:absolute;
+    left:331px;
+    top:278px;
+    width:100px;
+    height:60px;
+}
+
+#u70_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:66px;
+}
+
+.u71 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:96px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u72c0 {
+    background-image: url('../微友_files/u72c0.png');
+}
+
+.u72c0 {
+    position:absolute;
+    left:234px;
+    top:205px;
+    width:20px;
+    height:73px;
+}
+
+.u72c1 {
+    background-image: url('../微友_files/u72c1.png');
+}
+
+.u72c1 {
+    position:absolute;
+    left:234px;
+    top:258px;
+    width:157px;
+    height:20px;
+}
+
+.u72c2 {
+    background-image: url('../微友_files/u72c2.png');
+}
+
+.u72c2 {
+    position:absolute;
+    left:371px;
+    top:258px;
+    width:20px;
+    height:24px;
+}
+
+.u73 {
+    position:absolute;
+    left:-6px;
+    top:51px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

@@ -1,0 +1,8 @@
+﻿var sitemap = 
+
+(function() {
+    var _ = function() { var r={},a=arguments; for(var i=0; i<a.length; i+=2) r[a[i]]=a[i+1]; return r; }
+    var _creator = function() { return _(b,[_(c,d,e,f,g,h,i,[_(c,j,e,f,g,k,i,[_(c,l,e,f,g,m),_(c,n,e,f,g,o)]),_(c,p,e,f,g,q,i,[_(c,r,e,f,g,s,i,[_(c,t,e,f,g,u)]),_(c,v,e,f,g,w,i,[_(c,x,e,f,g,y),_(c,z,e,f,g,A),_(c,B,e,f,g,C)])]),_(c,D,e,f,g,E,i,[_(c,F,e,f,g,G)]),_(c,H,e,f,g,I),_(c,J,e,f,g,K,i,[_(c,L,e,f,g,M)])]),_(c,N,e,f,g,O,i,[_(c,P,e,f,g,Q,i,[_(c,R,e,f,g,S),_(c,l,e,f,g,T),_(c,U,e,f,g,V),_(c,z,e,f,g,W)]),_(c,X,e,f,g,Y,i,[_(c,Z,e,f,g,ba,i,[_(c,bb,e,f,g,bc)]),_(c,bd,e,f,g,be,i,[_(c,x,e,f,g,bf),_(c,z,e,f,g,bg),_(c,B,e,f,g,bh)])]),_(c,H,e,f,g,bi),_(c,bj,e,f,g,bk,i,[_(c,bl,e,f,g,bm,i,[_(c,bn,e,f,g,bo)])]),_(c,bp,e,f,g,bq,i,[_(c,R,e,f,g,br)])]),_(c,bs,e,f,g,bt)]);}; 
+var b="rootNodes",c="pageName",d="誉玺",e="type",f="Wireframe",g="url",h="誉玺.html",i="children",j="首页",k="首页.html",l="留言",m="留言.html",n="广告位",o="广告位.html",p="动态",q="动态.html",r="发表动态",s="发表动态.html",t="编辑动态",u="编辑动态.html",v="动态详情",w="动态详情.html",x="转发",y="转发.html",z="分享",A="分享.html",B="评论",C="评论.html",D="产品",E="产品.html",F="产品详情",G="产品详情.html",H="影像",I="影像.html",J="联系人",K="联系人.html",L="群发短信",M="群发短信.html",N="名玺",O="名玺.html",P="名片",Q="名片.html",R="编辑",S="编辑.html",T="留言_1.html",U="二维码",V="二维码.html",W="分享_1.html",X="日志",Y="日志.html",Z="发表日志",ba="发表日志.html",bb="编辑日志",bc="编辑日志.html",bd="日志详情",be="日志详情.html",bf="转发_1.html",bg="分享_2.html",bh="评论_1.html",bi="影像_1.html",bj="圈子",bk="圈子.html",bl="新增",bm="新增.html",bn="搜索结果",bo="搜索结果.html",bp="自媒体",bq="自媒体.html",br="编辑_1.html",bs="通讯录",bt="通讯录.html";
+return _creator();
+})();
