@@ -13,77 +13,77 @@
     "loadFeedbackPlugin":false},
   "sitemap":{
     "rootNodes":[{
-        "pageName":"首页",
-        "type":"Wireframe",
-        "url":"首页.html",
+        "pageName":"主页",
+        "type":"Flow",
+        "url":"主页.html",
         "children":[{
-            "pageName":"未创建家庭时引导",
+            "pageName":"导航",
             "type":"Wireframe",
-            "url":"未创建家庭时引导.html"},
-{
-            "pageName":"切换账号",
-            "type":"Wireframe",
-            "url":"切换账号.html"},
-{
-            "pageName":"我的家",
-            "type":"Wireframe",
-            "url":"我的家.html"},
-{
-            "pageName":"设置",
-            "type":"Wireframe",
-            "url":"设置.html",
+            "url":"导航.html",
             "children":[{
-                "pageName":"更换皮肤",
+                "pageName":"账号列表",
                 "type":"Wireframe",
-                "url":"更换皮肤.html"}]}]},
-{
-        "pageName":"家庭首页",
-        "type":"Wireframe",
-        "url":"家庭首页.html",
-        "children":[{
-            "pageName":"家庭详情",
-            "type":"Wireframe",
-            "url":"家庭详情.html",
-            "children":[{
-                "pageName":"编辑",
-                "type":"Wireframe",
-                "url":"编辑.html"},
-{
-                "pageName":"添加家人",
-                "type":"Wireframe",
-                "url":"添加家人.html"}]},
-{
-            "pageName":"拉钩详情",
-            "type":"Wireframe",
-            "url":"拉钩详情.html",
-            "children":[{
-                "pageName":"评论",
-                "type":"Wireframe",
-                "url":"评论.html",
+                "url":"账号列表.html",
                 "children":[{
-                    "pageName":"评论回复",
+                    "pageName":"切换账号",
                     "type":"Wireframe",
-                    "url":"评论回复.html"}]}]},
+                    "url":"切换账号.html"}]},
 {
-            "pageName":"循环拉钩",
-            "type":"Wireframe",
-            "url":"循环拉钩.html"},
-{
-            "pageName":"心情详情",
-            "type":"Wireframe",
-            "url":"心情详情.html"},
-{
-            "pageName":"拉钩盒子",
-            "type":"Wireframe",
-            "url":"拉钩盒子.html",
-            "children":[{
-                "pageName":"拉钩任务",
+                "pageName":"我的家",
                 "type":"Wireframe",
-                "url":"拉钩任务.html"}]}]},
+                "url":"我的家.html"},
 {
-        "pageName":"页面流程",
-        "type":"Wireframe",
-        "url":"页面流程.html"}]},
+                "pageName":"未创建家庭时的引导",
+                "type":"Wireframe",
+                "url":"未创建家庭时的引导.html"}]},
+{
+            "pageName":"家庭首页",
+            "type":"Wireframe",
+            "url":"家庭首页.html",
+            "children":[{
+                "pageName":"家庭详情",
+                "type":"Wireframe",
+                "url":"家庭详情.html",
+                "children":[{
+                    "pageName":"编辑家庭资料",
+                    "type":"Wireframe",
+                    "url":"编辑家庭资料.html"}]},
+{
+                "pageName":"创建拉钩",
+                "type":"Wireframe",
+                "url":"创建拉钩.html",
+                "children":[{
+                    "pageName":"和谁拉钩",
+                    "type":"Wireframe",
+                    "url":"和谁拉钩.html"}]},
+{
+                "pageName":"拉钩详情",
+                "type":"Wireframe",
+                "url":"拉钩详情.html",
+                "children":[{
+                    "pageName":"评论",
+                    "type":"Wireframe",
+                    "url":"评论.html",
+                    "children":[{
+                        "pageName":"评论回复",
+                        "type":"Wireframe",
+                        "url":"评论回复.html"}]}]},
+{
+                "pageName":"循环拉钩",
+                "type":"Wireframe",
+                "url":"循环拉钩.html"},
+{
+                "pageName":"心情详情",
+                "type":"Wireframe",
+                "url":"心情详情.html"},
+{
+                "pageName":"拉钩盒子",
+                "type":"Wireframe",
+                "url":"拉钩盒子.html",
+                "children":[{
+                    "pageName":"拉钩任务",
+                    "type":"Wireframe",
+                    "url":"拉钩任务.html"}]}]}]}]},
   "globalVariables":{
     "onloadvariable":""},
   "defaultAdaptiveView":{

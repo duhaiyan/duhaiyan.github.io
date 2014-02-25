@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"评论回复.html",
-  "generationDate":new Date(1392634063330.16),
+  "generationDate":new Date(1393298917245.19),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -55,7 +55,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/首页/u2.png"}},
+            "normal~":"images/导航/u2.png"}},
 {
           "id":"35fcdd903bd941f0ae3db34c707e2368",
           "label":"",
@@ -96,7 +96,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/首页/u4.png"}},
+            "normal~":"images/导航/u4.png"}},
 {
           "id":"ef805b4942264f55bb15b2ff11502fb5",
           "label":"",
@@ -135,7 +135,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/首页/u106.png"}},
+            "normal~":"images/导航/u106.png"}},
 {
           "id":"184552e4be6f4fac940b1ec900489b2e",
           "label":"",
@@ -508,7 +508,7 @@
 },
           "images":{
             "start~":"resources/images/transparent.gif",
-            "end~":"images/家庭首页/u102_end.png",
+            "end~":"images/家庭首页/u120_end.png",
             "line~":"images/评论回复/u25_line.png"}},
 {
           "id":"496b324e510a4541addaa236ed485e9e",
@@ -522,7 +522,7 @@
               "y":77},
             "size":{
               "width":363,
-              "height":32}},
+              "height":64}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -538,7 +538,7 @@
                   "y":77},
                 "size":{
                   "width":363,
-                  "height":32}},
+                  "height":64}},
               "adaptiveStyles":{
 }}],
           "images":{

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"拉钩盒子.html",
-  "generationDate":new Date(1392634064334.22),
+  "generationDate":new Date(1393298918133.24),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -61,7 +61,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/首页/u2.png"}},
+            "normal~":"images/导航/u2.png"}},
 {
           "id":"2aacc8dcd5d74886b31c458fae2c4cf4",
           "label":"",
@@ -102,7 +102,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/首页/u4.png"}},
+            "normal~":"images/导航/u4.png"}},
 {
           "id":"2a0c41b9970b448baf60338994758f9c",
           "label":"",
@@ -141,7 +141,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/首页/u106.png"}},
+            "normal~":"images/导航/u106.png"}},
 {
           "id":"afbdb09fb5884947910b5e07e674e4b1",
           "label":"",
@@ -219,7 +219,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/首页/u245.png"}},
+            "normal~":"images/导航/u249.png"}},
 {
           "id":"58e4e48bd3194f0aa72489bc87806b06",
           "label":"",
@@ -646,7 +646,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/首页/u4.png"}},
+            "normal~":"images/导航/u4.png"}},
 {
           "id":"f99143ec97b44da1b50de52c73f8175a",
           "label":"",
@@ -685,7 +685,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/首页/u106.png"}},
+            "normal~":"images/导航/u106.png"}},
 {
           "id":"a2c697365f294eac9953390743c4cacb",
           "label":"",
@@ -763,7 +763,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/首页/u245.png"}},
+            "normal~":"images/导航/u249.png"}},
 {
           "id":"adad50a6bf3642468fcb35006f9d1e80",
           "label":"",
